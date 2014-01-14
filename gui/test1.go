@@ -18,4 +18,4 @@ func main() {
 	W.ShowWindow(hwnd, W.SW_SHOW)
 	W.ShowWindow(hwnd1, W.SW_SHOW)
 	Start(hwnd)
-}
+} 
